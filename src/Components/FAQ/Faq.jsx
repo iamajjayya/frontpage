@@ -67,9 +67,9 @@ const Faq = () => {
 
   const toggleAccordion = (index) => {
     if (activeIndex === index) {
-      setActiveIndex(null); // Close the currently open accordion
+      setActiveIndex(null); 
     } else {
-      setActiveIndex(index); // Open the clicked accordion
+      setActiveIndex(index); 
     }
   };
 
