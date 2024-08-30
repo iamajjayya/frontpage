@@ -1,0 +1,20 @@
+/*
+
+Express.js is a minimalist, unopionated web application framework for nodejs
+
+-> Designed to build web application and API,
+-> It Provides a roust set of features to develop Single-Page, Multi Page , and  hybrid web applications
+
+Key Concepts and Features 
+-------------------------
+
+1. Middleware : 
+
+   Middleware functions are the heart of express.js,  They are functions that have access to the request(req) and response(res) object and  can  modify them before passing control to the next middleware function in the stack , Middleware can be used for tasks like logging,  authentication , parsing JSON, handling session,
+
+   
+
+
+
+
+*/
